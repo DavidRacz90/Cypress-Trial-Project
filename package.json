@@ -1,0 +1,24 @@
+{
+  "name": "Cypress-Trial-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRacz90/Cypress-Trial-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidRacz90/Cypress-Trial-Project/issues"
+  },
+  "homepage": "https://github.com/DavidRacz90/Cypress-Trial-Project#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
